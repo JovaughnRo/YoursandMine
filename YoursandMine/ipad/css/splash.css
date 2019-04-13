@@ -1,0 +1,132 @@
+html {
+    display: block;
+    height: 100%;
+}
+
+body {
+
+    display: flex;
+    height: 100%;
+    width: 100%;
+    font-family: Monda;
+}
+
+p {
+    font-family: monda;
+    margin-bottom: 0rem !important;
+}
+
+.about-text {
+    max-width: 37rem;
+    color: #ffffff;
+}
+
+.banner-text,
+.banner-header {
+    font-family: Monda;
+    color: #ffffff;
+}
+
+.banner-text {
+    font-size: 14pt;
+}
+
+.btn-custom {
+    width: 42%;
+}
+
+.btn-color {
+    font-family: monda;
+    font-size: 14pt;
+    color: #ffffff;
+    background-color: #F98559;
+}
+
+.bkgd-logo {
+
+    opacity: 0.5;
+}
+
+.bg-image {
+
+    background-image: url(.../images/LogoColor.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.5;
+    background-position: center;
+
+    /*    background-position: right bottom !impotant;*/
+}
+
+
+.con-bkg {
+    background-color: #F98559;
+}
+
+.deckWidth {
+    width: 100%;
+}
+
+.footer-height {
+    height: 50px;
+}
+
+.footer-text {
+    color: #ffffff;
+    font-size: 14pt;
+}
+
+.form-control {
+    height: 3rem !important;
+}
+
+.headerWhite {
+    color: #ffffff;
+}
+
+.hr-line {
+    border: 1px solid #000;
+}
+
+.logo {
+    width: 85%;
+}
+
+.logo-text {
+    font-family: monda;
+    color: #F98559;
+    font-size: 2.4rem !important;
+}
+
+.logo-text2 {
+    font-family: monda;
+    color: #F98559;
+    font-size: 2.4rem !important;
+    line-height: 3.8rem;
+}
+
+.logoWhite {
+    width: 25%;
+}
+
+
+.nav-text {
+    font-family: monda;
+    font-size: 15pt;
+    color: #000000
+}
+
+
+
+.r-height {
+    height: 100%;
+
+}
+
+.orangeBanner {
+    /*    height: 70%;*/
+    background-image: url(/images/orangeBanner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

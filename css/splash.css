@@ -125,7 +125,7 @@ p {
 
 .orangeBanner {
     /*    height: 70%;*/
-    background-image: url(/images/orangeBanner.png);
+    background-image: url(../images/orangeBanner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

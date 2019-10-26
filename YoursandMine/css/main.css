@@ -17,6 +17,8 @@ body {
 
 }
 
+}
+
 .card-border {
     position: relative;
     display: -ms-flexbox;
@@ -33,7 +35,8 @@ body {
 
 .card-img-top {
     object-fit: cover;
-    height: 23vh;
+    object-position: 50%;
+    height: 180px;
 }
 
 

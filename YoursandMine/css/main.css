@@ -307,7 +307,8 @@ body {
 @media (min-width: 1366px) {
     .card-img-top {
         object-fit: cover;
-        height: 35vh;
+        object-position: 50%;
+        height: 180px;
     }
 
     .l-text {
@@ -348,7 +349,8 @@ body {
 
     .card-img-top {
         object-fit: cover;
-        height: 25vh;
+        object-position: 50%;
+        height: 180px;
     }
 
     .fa-size {

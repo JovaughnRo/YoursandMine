@@ -180,9 +180,10 @@ not a good solution its not consistent
         width: 10%;
 
     }
+
     .card-img-top {
 
-        height: 130px;
+        height: 180px;
     }
 
     .product-cardHeader {
@@ -190,7 +191,7 @@ not a good solution its not consistent
         overflow: hidden;
         text-overflow: ellipsis;
         width: 110px;
-    
+
     }
 }
 
@@ -212,7 +213,7 @@ not a good solution its not consistent
 
     .card-img-top {
 
-        height: 170px;
+        height: 180px;
     }
 
     .product-cardHeader {
@@ -220,7 +221,7 @@ not a good solution its not consistent
         overflow: hidden;
         text-overflow: ellipsis;
         width: 154px;
-    
+
     }
 
 }

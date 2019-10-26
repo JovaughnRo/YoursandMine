@@ -345,13 +345,7 @@ body {
 
 @media (min-width: 1920px) {
 
-    /*
-    .card-img-top {
 
-        height: 239px;
-    }
-    
-*/
     .card-img-top {
         object-fit: cover;
         height: 25vh;
@@ -363,7 +357,7 @@ body {
         vertical-align: -.0667em;
     }
 
-    .fa-userSize {}
+
 
     .hideCard {
         display: none !important;
